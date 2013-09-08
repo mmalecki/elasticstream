@@ -1,0 +1,11 @@
+{
+  "name": "elasticstream",
+  "version": "0.0.0",
+  "description": "elasticsearch streaming indexer",
+  "keywords": ["elasticsearch", "stream"],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "dependencies": {
+    "jsonquest": "0.2.x"
+  },
+  "main": "./lib/elasticstream.js"
+}
