@@ -1,6 +1,6 @@
 {
   "name": "elasticstream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "elasticsearch streaming indexer",
   "keywords": ["elasticsearch", "stream"],
   "author": "Maciej Małecki <me@mmalecki.com>",
